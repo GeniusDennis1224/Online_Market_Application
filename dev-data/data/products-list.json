@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Lenovo Thinkpad X1 Carbon Gen13",
+    "description": "Excellent business laptops",
+    "price": 1899.99,
+    "quantity": 10,
+    "category": "Electronics"
+  },
+  {
+    "name": "Macbook Pro M2 16 Inch",
+    "description": "A powerful to for creation and programming",
+    "price": 3299.99,
+    "quantity": 20,
+    "category": "Electronics"
+  },
+  {
+    "name": "Web Development",
+    "description": "A complete guide to become a web developer",
+    "price": 87.68,
+    "quanity": 3,
+    "category": "Book"
+  },
+  {
+    "name": "MongoDB - A Complete Guide",
+    "description": "A complete introduction to MongoDB - The most popular Non-SQL database",
+    "price": 89.99,
+    "quantity": 20,
+    "category": "Book"
+  },
+  {
+    "name": "Dyson CleanStation G3",
+    "description": "A light but powerful vacuum",
+    "price": 789.78,
+    "quanity": 12,
+    "category": "Home"
+  },
+  {
+    "name": "Samsung Fresh Refrigerator",
+    "description": "A functional and modern refrigerator that can make you be healthy every day",
+    "price": 1056.32,
+    "quantity": 2,
+    "category": "Home"
+  }
+]
